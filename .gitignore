@@ -1,0 +1,12 @@
+﻿*.mp4
+*.mov
+*.avi
+data/
+outputs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.ply
+*.splat
+checkpoints/
