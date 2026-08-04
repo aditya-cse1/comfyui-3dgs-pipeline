@@ -10,3 +10,4 @@ venv/
 *.ply
 *.splat
 checkpoints/
+gaussian-splatting/
